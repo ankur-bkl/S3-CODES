@@ -1,5 +1,5 @@
 # 🌑 S3-CODES
-> Semester 2 Codebase • Labs • Assignments • Experiments
+> Semester 3 Codebase • Labs • Assignments • Experiments
 
 ---
 
